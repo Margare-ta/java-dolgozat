@@ -98,11 +98,33 @@ a:link {
     width: 60%;
     margin-left: 20%;
     padding: 0.5%;
+    margin-top: 2%;
 }
 
 .egysorban{
     width: 23%;
     height: 23%;
     margin: 0.5%;
+}
+
+.kinezet{
+    top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+  float: right;
+}
+
+#imgtext {
+    
+    left: 15px;
+    color: white;
+    font-size: 20px;
+    float: left;
+}
+
+.margin{
+    margin-bottom: 2%;
 }
 
